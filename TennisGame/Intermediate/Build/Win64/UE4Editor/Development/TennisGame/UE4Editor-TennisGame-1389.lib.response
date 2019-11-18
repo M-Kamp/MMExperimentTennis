@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TennisGame-1389.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\TennisGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\MyLogger.cpp.obj"
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\TennisGame.cpp.obj"
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\MyLogger.gen.cpp.obj"
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\TennisGame.init.gen.cpp.obj"
+"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\Default.rc2.res"
+/OUT:"C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\UE4Editor-TennisGame-1389.lib"
+/INCLUDE:IMPLEMENT_MODULE_TennisGame

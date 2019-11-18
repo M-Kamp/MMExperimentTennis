@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TennisGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{908C8B92-0684-4C1B-9235-8D08F6CA52B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TennisGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TennisGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5EE2BFD8-7915-418C-96BB-EBA86F8C103B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TennisGame">
+      <UniqueIdentifier>{44452782-21A9-46A9-B581-8F61F900D195}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TennisGame\TennisGame.Build.cs">
+      <Filter>Source\TennisGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TennisGame\TennisGame.cpp">
+      <Filter>Source\TennisGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TennisGame\TennisGame.h">
+      <Filter>Source\TennisGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\TennisGame\Private">
+      <UniqueIdentifier>{C557ED13-B256-4C9B-8391-86D511CAFEF2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TennisGame\Private\MyLogger.cpp">
+      <Filter>Source\TennisGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TennisGame\Public">
+      <UniqueIdentifier>{6DF7CEED-5D65-4CEA-B972-84241E8915CD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TennisGame\Public\MyLogger.h">
+      <Filter>Source\TennisGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
