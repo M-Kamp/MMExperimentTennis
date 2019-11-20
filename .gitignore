@@ -54,6 +54,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+TennisGame/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
