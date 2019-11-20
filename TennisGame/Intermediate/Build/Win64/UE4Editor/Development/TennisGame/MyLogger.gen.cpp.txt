@@ -1,5 +1,5 @@
-C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\Definitions.TennisGame.h
+C:\Users\Kamp-Legion\Documents\MMExperimentTennis\TennisGame\Intermediate\Build\Win64\UE4Editor\Development\TennisGame\Definitions.TennisGame.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Mikke\Documents\MMExperimentTennis\TennisGame\Source\TennisGame/Public/MyLogger.h
-c:\users\mikke\documents\mmexperimenttennis\tennisgame\intermediate\build\win64\ue4editor\inc\tennisgame\MyLogger.generated.h
+C:\Users\Kamp-Legion\Documents\MMExperimentTennis\TennisGame\Source\TennisGame/Public/MyLogger.h
+c:\users\kamp-legion\documents\mmexperimenttennis\tennisgame\intermediate\build\win64\ue4editor\inc\tennisgame\MyLogger.generated.h
